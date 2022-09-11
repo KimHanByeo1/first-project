@@ -14,6 +14,10 @@ public class Hello {
 		System.out.println("Hi");
 		System.out.println("Hihi");
 
+		int i 100;
+		System.out.println(i);		
+		
+
 		
 	}
 
