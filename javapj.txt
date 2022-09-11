@@ -21,6 +21,7 @@ public class Hello {
 		System.out.println(j);
 
 		자바 프로젝트.
+		finish java project;
 
 	}
 
