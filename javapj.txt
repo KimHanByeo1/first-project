@@ -16,8 +16,9 @@ public class Hello {
 
 		int i 100;
 		System.out.println(i);		
-		
-
+	
+		int j 100;
+		System.out.println(j);
 		
 	}
 
